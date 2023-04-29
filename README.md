@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Ishaan
-- 👀 I’m interested in Learning about programming
-- 🌱 I’m currently learning Java and Python
-- 💞️ I’m looking to collaborate on ...
+- 👀 I am a 2nd year B. Tech Student pursuing my degree in Artificial Intelligence and Machine Learning
+- 🌱 I’m currently learning about Neural Networks and Deep Learning and trying to gain experience in the said field
 - 📫 How to reach me Mail:ishaang1410@gmail.com
 
 <!---
