@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on **various ML based projects**
 
-- 👨‍💻 All of my projects are available at [www.ishaanportfolio.site](www.ishaanportfolio.site)
-
 - 📫 How to reach me **ishaang1410@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
